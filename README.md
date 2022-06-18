@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UshieFrancis
 - 👀 I’m interested in ...web development
 - 🌱 I’m currently learning ...HTML5, CSS3, JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...frontend developmet projects
+- 💞️ I’m looking to collaborate on ...frontend development projects
 - 📫 How to reach me ...twitter:@1UshieFrancis
 
 <!---
