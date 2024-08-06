@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @UshieFrancis
-- 👀 I’m interested in ...web development
-- 🌱 I’m currently learning ...HTML5, CSS3, JAVASCRIPT
-- 💞️ I’m looking to collaborate on ...frontend development projects
-- 📫 How to reach me ...twitter:@1UshieFrancis
+- 👀 I'm a DevOps Engineer 🔁 -
+- 🌱 I Deploy -
+- 💞️ I Automate -
+- 📫 I also Optimize Scalable Cloud Solutions.
 
 <!---
 UshieFrancis/UshieFrancis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
